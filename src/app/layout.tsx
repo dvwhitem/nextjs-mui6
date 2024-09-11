@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import localFont from "next/font/local";
 import {AppRouterCacheProvider} from '@mui/material-nextjs/v14-appRouter'
 import MyThemeProvider from '@/app/components/MyThemeProvider'
-import InitColorSchemeScript from '@mui/system/InitColorSchemeScript'
+import InitColorSchemeScript from '@mui/material/InitColorSchemeScript';
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -27,8 +27,8 @@ export default function RootLayout({
 }>) {
 
   return (
-    <html suppressHydrationWarning={true}  lang="en">
-      <body style={{prefersColorScheme: 'light', margin: 0, padding: 0}} className={`${geistSans.variable} ${geistMono.variable}`}>
+    <html suppressHydrationWarning lang="en">
+      <body style={{margin: 0, padding: 0}} className={`${geistSans.variable} ${geistMono.variable}`}>
       <InitColorSchemeScript attribute="class" />
       <AppRouterCacheProvider>
           <MyThemeProvider>

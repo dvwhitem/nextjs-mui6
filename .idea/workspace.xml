@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c044b2f2-f8c9-43be-8aab-67f2a6cdebb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/components/MyThemeProvider.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/MyThemeProvider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/MyThemeProvider.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/vitaliy/Programming/WebStormProjects/shopy-next-service",
+    "last_opened_file_path": "/home/vitaliy/Programming/WebStormProjects/nextjs-mui6",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,7 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1726064103245</updated>
       <workItem from="1726064104265" duration="496000" />
-      <workItem from="1726064612538" duration="3583000" />
+      <workItem from="1726064612538" duration="3785000" />
+      <workItem from="1726079586847" duration="321000" />
     </task>
     <servers />
   </component>
